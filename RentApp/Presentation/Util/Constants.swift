@@ -9,10 +9,12 @@ import Foundation
 
 struct Constants {
     struct Size {
+        static let _1: CGFloat = 1
         static let _12: CGFloat = 12
         static let _14: CGFloat = 14
         static let _16: CGFloat = 16
         static let _24: CGFloat = 24
+        static let _32: CGFloat = 32
         static let _51: CGFloat = 51
         static let _72: CGFloat = 72
         static let _84: CGFloat = 84
